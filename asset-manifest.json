@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/alex-orri.github.io/static/css/main.3413a2ef.chunk.css",
-    "main.js": "/alex-orri.github.io/static/js/main.3f57cb02.chunk.js",
-    "main.js.map": "/alex-orri.github.io/static/js/main.3f57cb02.chunk.js.map",
-    "runtime-main.js": "/alex-orri.github.io/static/js/runtime-main.744c0f07.js",
-    "runtime-main.js.map": "/alex-orri.github.io/static/js/runtime-main.744c0f07.js.map",
-    "static/js/2.6ecf4c8a.chunk.js": "/alex-orri.github.io/static/js/2.6ecf4c8a.chunk.js",
-    "static/js/2.6ecf4c8a.chunk.js.map": "/alex-orri.github.io/static/js/2.6ecf4c8a.chunk.js.map",
-    "static/js/3.9d436b9d.chunk.js": "/alex-orri.github.io/static/js/3.9d436b9d.chunk.js",
-    "static/js/3.9d436b9d.chunk.js.map": "/alex-orri.github.io/static/js/3.9d436b9d.chunk.js.map",
-    "index.html": "/alex-orri.github.io/index.html",
-    "static/css/main.3413a2ef.chunk.css.map": "/alex-orri.github.io/static/css/main.3413a2ef.chunk.css.map",
-    "static/js/2.6ecf4c8a.chunk.js.LICENSE.txt": "/alex-orri.github.io/static/js/2.6ecf4c8a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/alex-orri.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.3413a2ef.chunk.css",
+    "main.js": "/static/js/main.3f57cb02.chunk.js",
+    "main.js.map": "/static/js/main.3f57cb02.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6f28c2e2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6f28c2e2.js.map",
+    "static/js/2.6ecf4c8a.chunk.js": "/static/js/2.6ecf4c8a.chunk.js",
+    "static/js/2.6ecf4c8a.chunk.js.map": "/static/js/2.6ecf4c8a.chunk.js.map",
+    "static/js/3.9d436b9d.chunk.js": "/static/js/3.9d436b9d.chunk.js",
+    "static/js/3.9d436b9d.chunk.js.map": "/static/js/3.9d436b9d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3413a2ef.chunk.css.map": "/static/css/main.3413a2ef.chunk.css.map",
+    "static/js/2.6ecf4c8a.chunk.js.LICENSE.txt": "/static/js/2.6ecf4c8a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.744c0f07.js",
+    "static/js/runtime-main.6f28c2e2.js",
     "static/js/2.6ecf4c8a.chunk.js",
     "static/css/main.3413a2ef.chunk.css",
     "static/js/main.3f57cb02.chunk.js"
